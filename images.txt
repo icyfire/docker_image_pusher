@@ -1,1 +1,1 @@
-neosmemo/memos:stable
+neosmemo/memos:0.22.3
