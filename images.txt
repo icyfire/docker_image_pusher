@@ -4,4 +4,4 @@
 #rancher/pause:3.6
 #docker.io/kubernetesui/dashboard:v2.7.0
 #docker.io/kubernetesui/metrics-scraper:v1.0.8
-coreos/etcd:v3.3.25
+quay.io/coreos/etcd:v3.3.25
