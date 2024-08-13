@@ -2,5 +2,6 @@
 #portainer/portainer-ce:2.20.3
 #apache/answer:1.3.5
 #rancher/pause:3.6
-docker.io/kubernetesui/dashboard:v2.7.0
-docker.io/kubernetesui/metrics-scraper:v1.0.8
+#docker.io/kubernetesui/dashboard:v2.7.0
+#docker.io/kubernetesui/metrics-scraper:v1.0.8
+coreos/etcd:v3.3.25
