@@ -7,4 +7,7 @@
 #quay.io/coreos/etcd:v3.3.25
 #elastic/filebeat:7.3.1
 #jaegertracing/all-in-one
-elasticsearch:7.16.2
+#elasticsearch:7.16.2
+jenkinsci/blueocean:1.24.7
+kibana:7.3.1
+314315960/inotify-nginx:latest
