@@ -13,4 +13,5 @@
 #kibana:7.3.1
 #314315960/inotify-nginx:latest
 #easysoft/zentao:20.4
-corentinth/it-tools:2024.10.22-7ca5933
+#corentinth/it-tools:2024.10.22-7ca5933
+yeelabs/yearning:v3.1.9
