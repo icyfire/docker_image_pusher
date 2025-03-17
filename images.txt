@@ -1,5 +1,5 @@
 #hoppscotch/hoppscotch:2024.8.1
-#neosmemo/memos:0.24.0
+neosmemo/memos:0.24.1
 #portainer/portainer-ce:2.20.3
 #apache/answer:1.3.5
 #rancher/pause:3.6
@@ -15,4 +15,4 @@
 #easysoft/zentao:20.4
 #corentinth/it-tools:2024.10.22-7ca5933
 #yeelabs/yearning:v3.1.9
-mysql:8.4.4
+#mysql:8.4.4
