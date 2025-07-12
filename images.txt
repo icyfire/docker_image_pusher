@@ -15,7 +15,7 @@
 #easysoft/zentao:20.4
 #corentinth/it-tools:2024.10.22-7ca5933
 #yeelabs/yearning:v3.1.9
-#mysql:8.4.4
+mysql:8.4.5
 #rabbitmq:4.0.7
 #centos:7
-cloudreve/cloudreve:4.2.0
+#cloudreve/cloudreve:4.2.0
