@@ -1,4 +1,4 @@
-#hoppscotch/hoppscotch:2024.8.1
+hoppscotch/hoppscotch:2025.7.1
 #neosmemo/memos:0.25.0
 #portainer/portainer-ce:2.20.3
 #apache/answer:1.3.5
@@ -20,4 +20,4 @@
 #centos:7
 #cloudreve/cloudreve:4.2.0
 #caddy:2.10.0
-postgres:13.22-alpine
+#postgres:13.22-alpine
