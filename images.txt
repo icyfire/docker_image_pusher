@@ -20,4 +20,4 @@
 #centos:7
 #cloudreve/cloudreve:4.2.0
 #caddy:2.10.0
-postgres:14.19-alpine
+postgres:18.0-alpine
