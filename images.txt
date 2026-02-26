@@ -24,4 +24,5 @@
 #node:24-alpine
 #golang:1.25-alpine
 #alpine:3.23
-nginx:1.25-alpine
+#nginx:1.25-alpine
+php:8.2-fpm
