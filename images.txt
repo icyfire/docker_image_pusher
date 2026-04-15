@@ -27,4 +27,5 @@
 #alpine:3.23
 #nginx:1.25-alpine
 #php:8.2-fpm
-php:8.3-cli-bookworm
+#php:8.3-cli-bookworm
+pgvector/pgvector:pg16
