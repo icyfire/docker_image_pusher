@@ -28,6 +28,7 @@
 #nginx:1.25-alpine
 #php:8.2-fpm
 #php:8.4-cli-bookworm
-php:8.4-fpm-bookworm
+#php:8.4-fpm-bookworm
 #pgvector/pgvector:pg16
 #redis:7-alpine
+composer:2
