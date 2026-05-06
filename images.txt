@@ -1,5 +1,5 @@
 #hoppscotch/hoppscotch:2025.10.0
-#neosmemo/memos:0.27.1
+neosmemo/memos:0.28.0
 #portainer/portainer-ce:2.20.3
 #apache/answer:1.3.5
 #rancher/pause:3.6
@@ -31,4 +31,4 @@
 #php:8.4-fpm-bookworm
 #pgvector/pgvector:pg16
 #redis:7-alpine
-composer:2
+#composer:2
