@@ -32,4 +32,5 @@
 #pgvector/pgvector:pg16
 #redis:7-alpine
 #composer:2
-justsong/one-api
+#justsong/one-api
+calciumion/new-api:v1.0.0-rc.22
