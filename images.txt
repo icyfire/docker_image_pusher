@@ -21,7 +21,7 @@
 #cloudreve/cloudreve:4.2.0
 #caddy:2.11.2
 #postgres:15.14-alpine
-#postgres:15.18
+postgres:15.18
 #postgres:16.13
 #node:24-alpine
 #golang:1.25-alpine
@@ -32,7 +32,7 @@
 #php:8.4-fpm-bookworm
 #pgvector/pgvector:pg16
 #redis:7-alpine
-redis:7.4.10
+#redis:7.4.10
 #composer:2
 #justsong/one-api
 #calciumion/new-api:v1.0.0-rc.22
