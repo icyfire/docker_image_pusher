@@ -37,4 +37,4 @@
 #justsong/one-api
 #calciumion/new-api:v1.0.0-rc.22
 #prom/prometheus:v3.13.1
-maximhq/bifrost:v1.6.9
+maximhq/bifrost:v1.6.11
