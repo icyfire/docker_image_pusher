@@ -35,6 +35,6 @@
 #redis:7.4.10
 #composer:2
 #justsong/one-api
-calciumion/new-api:v1.0.0-rc.30
+calciumion/new-api:v1.0.0-rc.31
 #prom/prometheus:v3.13.1
 #maximhq/bifrost:v2.0.0-prerelease3
