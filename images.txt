@@ -27,6 +27,7 @@
 #golang:1.25-alpine
 #alpine:3.23
 #nginx:1.30.4
+php:8.5.12-cli
 #php:8.2-fpm
 #php:8.4-cli-bookworm
 #php:8.4-fpm-bookworm
@@ -35,6 +36,6 @@
 #redis:7.4.10
 #composer:2
 #justsong/one-api
-calciumion/new-api:v1.0.0-rc.47
+#calciumion/new-api:v1.0.0-rc.47
 #prom/prometheus:v3.13.1
 #maximhq/bifrost:v2.0.0-prerelease3
